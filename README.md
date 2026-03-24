@@ -20,7 +20,7 @@
 * Networking (TCP/IP, DNS, HTTP)
 * SIEM: ELK Stack (Elasticsearch, Logstash, Kibana)
 * Tools: Wireshark basic, Nmap basic, 
-* 
+  
 
 ---
 
